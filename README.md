@@ -1,2 +1,2 @@
-# zeyofu.github.io
-This is a repo for Xingyu Fu's personal website.
+# OliverLeeXZ.github.io
+This is a repo for Xiaozhe Li's personal website.
